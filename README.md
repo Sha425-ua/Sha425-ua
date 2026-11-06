@@ -12,7 +12,6 @@ val developer = Developer(
     location = "Ukraine 🇺🇦",
     focus = listOf("Backend Development", "Desktop & Mods", "Self-Hosted"),
     currentProjects = listOf("self-vault", "Stardew-Banners-Expanded", "ourJava"),
-    motto = "Clean code & Java"
 )
 ```
 

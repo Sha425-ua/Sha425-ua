@@ -27,16 +27,3 @@ val developer = Developer(
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,cs&theme=dark" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,jetpackcompose,gradle,maven&theme=dark" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,podman,linux,idea,vscodium&theme=dark" /> |
 
 </div>
-
----
-
-<h3 align="center">Connect with Me</h3>
-
-<div align="center">
-  <a href="https://discord.com/users/1017067947883245579" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Sha__425-1d4ed8?style=for-the-badge&logo=discord&logoColor=38bdf8&labelColor=0f172a" />
-  </a>
-  <a href="mailto:vdehtiarenko@proton.me">
-    <img src="https://img.shields.io/badge/Proton_Mail-vdehtiarenko@proton.me-1d4ed8?style=for-the-badge&logo=protonmail&logoColor=38bdf8&labelColor=0f172a" />
-  </a>
-</div>
